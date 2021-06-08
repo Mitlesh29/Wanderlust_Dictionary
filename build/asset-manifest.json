@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Wanderlust_Dictionary/static/css/main.c1909217.chunk.css",
+    "main.js": "/Wanderlust_Dictionary/static/js/main.702006c0.chunk.js",
+    "main.js.map": "/Wanderlust_Dictionary/static/js/main.702006c0.chunk.js.map",
+    "runtime-main.js": "/Wanderlust_Dictionary/static/js/runtime-main.890ccc79.js",
+    "runtime-main.js.map": "/Wanderlust_Dictionary/static/js/runtime-main.890ccc79.js.map",
+    "static/js/2.7cf249b7.chunk.js": "/Wanderlust_Dictionary/static/js/2.7cf249b7.chunk.js",
+    "static/js/2.7cf249b7.chunk.js.map": "/Wanderlust_Dictionary/static/js/2.7cf249b7.chunk.js.map",
+    "index.html": "/Wanderlust_Dictionary/index.html",
+    "static/css/main.c1909217.chunk.css.map": "/Wanderlust_Dictionary/static/css/main.c1909217.chunk.css.map",
+    "static/js/2.7cf249b7.chunk.js.LICENSE.txt": "/Wanderlust_Dictionary/static/js/2.7cf249b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.890ccc79.js",
+    "static/js/2.7cf249b7.chunk.js",
+    "static/css/main.c1909217.chunk.css",
+    "static/js/main.702006c0.chunk.js"
+  ]
+}
